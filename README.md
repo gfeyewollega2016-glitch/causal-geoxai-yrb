@@ -39,7 +39,6 @@ conda activate causal-geoxai
 
 2. Run Python scripts **in order** (all scripts expect the GEE‑exported rasters in data/):
 
-cd python_scripts
 - python part1_lerei_construction/01_normalize_indicators.py
 - python part1_lerei_construction/02_aggregate_components.py
 - python part1_lerei_construction/03_bayesian_sem_lerei_x.py
