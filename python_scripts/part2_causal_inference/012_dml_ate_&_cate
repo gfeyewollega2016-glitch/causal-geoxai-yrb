@@ -1,11 +1,12 @@
 # ============================================================================
-# Spatial Causal Inference: ATE & CATE for Terrace Erosion Reduction → LEREI‑X (##Manuscript Section 2.5)
-# Year‑specific Double/Debiased Machine Learning (DML) – for temporal ATE&CATE estimation 
+# Spatial Causal Inference: ATE & CATE for Terrace Erosion Reduction → LEREI‑X
+# Manuscript Section 2.5 – Double/Debiased Machine Learning (DML)
 # ============================================================================
 # Data‑path neutral: set DATA_DIR below to your working directory.
 # Required input files per year: dml_data_{year}.npz (see preprocessing script)
 # Optional panel file: causal_data_timevarying_panel.csv (for coordinates)
 # ============================================================================
+
 
 import os
 import gc
