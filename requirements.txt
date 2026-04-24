@@ -1,5 +1,5 @@
 # ============================================================================
-# Requirements for Causal GeoXAI workflow
+# Requirements for XCML workflow
 # Used with Python 3.12 on Google Colab 
 # ============================================================================
 
@@ -29,7 +29,7 @@ esda==2.9.0
 
 
 # ============================================================================
-# Requirements for Causal GeoXAI workflow
+# Requirements for XCML workflow
 # Expected minimum versions – works with Python 3.10–3.12---
 # ============================================================================
 
