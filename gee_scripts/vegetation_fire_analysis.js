@@ -8,7 +8,7 @@
 // from multi-source Earth observation datasets.
 //
 // KEY FEATURES:
-// - Landsat-derived NDVI (30 m)
+// - Landsat-derived NDVI 
 // - ERA5-Land climate forcing
 // - Light-use efficiency (LUE) NPP model
 // - Calibration against MODIS MOD17A3HGF
