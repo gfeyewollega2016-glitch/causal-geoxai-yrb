@@ -42,7 +42,7 @@ conda activate causal-geoxai
 
 
 ## Citation
-If you use this code, please cite the associated paper (once published) and this repository.
+If you use this code, please cite the associated paper and this repository.
 
 ## License
 MIT (see LICENSE file)
