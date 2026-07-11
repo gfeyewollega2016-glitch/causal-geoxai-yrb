@@ -1,5 +1,5 @@
 """
-Resilience modelling_LEREI-X (Multi-year)
+Resilience modelling LEREI-X (Multi-year)
 =========================================
 Bayesian SEM of pre-computed resistance (R), Recovery (C), and adaptability (A) using Section 2.3.2 Eqs. (1-3).
 Input rasters: 3 bands (band1=R, band2=C, band3=A)
